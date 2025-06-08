@@ -1,0 +1,6 @@
+[submodule "external/lodash"]
+	path = external/lodash
+	url = git@github.com:Osavazya/Project.git
+[submodule "external/utils"]
+	path = external/utils
+	url = git@github.com:Osavazya/Project.git
